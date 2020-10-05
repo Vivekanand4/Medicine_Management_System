@@ -142,7 +142,7 @@ class medicine
 	} 
 	
 //**********************
-//FUNCTION TO SHOW BILL	
+//FUNCTION TO GENERATE THE BILL	
 //**********************
    void medicine::showbill()
    {
